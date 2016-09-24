@@ -1,5 +1,5 @@
 Name:           watchman
-Version: 4.5.0
+Version: 4.7.0
 Release:        1%{?dist}
 Summary:        Watches files and takes action when they change
 License:        ASL 2.0
